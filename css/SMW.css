@@ -1,0 +1,68 @@
+.logo 
+{
+    background-image: url(../images/icone_76x76.png);
+    background-repeat: no-repeat;
+    height: 75px;
+    width: 75px;
+    background-size: 75px;
+}
+
+/*.navigation
+{
+	width: 8em;
+	height: 3.5em;
+	align-content: center;
+	margin-top: auto;
+	margin-bottom: auto;
+	text-align: center;
+	display: table-cell;
+	white-space: pre-wrap;
+}*/
+
+.btn-choix
+{
+	width: 100%;
+	margin-bottom: 15px;
+	white-space: pre-wrap;
+}
+
+.footer 
+{
+    height: 75px;
+    width: 100% !important;
+    background-color: #8b8b8c !important;
+}
+
+.copyright 
+{
+    padding-top: 25px; 
+}
+
+.badge-mpdx 
+{     
+	padding: 3px;
+	background-color: white;
+	border-radius: 5px; 
+}
+
+.bg-success
+{
+	background-color: #00FF00 !important;
+}
+.bg-danger
+{
+	background-color: #FF0000 !important;
+}
+.bg-warning
+{
+	background-color: #FFC000 !important;
+}
+
+.text-success
+{
+	color: #00FF00 !important;
+}
+.text-danger
+{
+	color: #FF0000 !important;
+}
